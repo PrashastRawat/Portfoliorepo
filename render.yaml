@@ -1,11 +1,4 @@
 services:
-  - type: web
-    name: portfolio-backend
-    runtime: node
-    rootDir: backend
-    buildCommand: npm install
-    startCommand: node server.js
-
   - type: static
     name: portfolio-frontend
     rootDir: frontend
