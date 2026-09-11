@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #f7f5ef;
+  --color-ink: #1a1a1a;
+  --color-muted: #6b675c;
+  --color-line: #ddd8cc;
+  --color-accent: #c8272c;
+  --color-grid: #e5e0d3;
+  --font-pixel: "Geist Pixel", sans-serif;
+}
